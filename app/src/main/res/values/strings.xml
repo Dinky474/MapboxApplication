@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Rainly</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGlua3k0NzQiLCJhIjoiY2ttY25lZXU1MXIyazJ3cDk4bHVqano5YSJ9.f2DYz57rJf-sM1O31FpeKg</string>
+    <string name="user_location_permission_explanation">Location services will need to be enabled in order for this application to work properly.</string>
+    <string name="user_location_permission_not_granted">Fill this in later</string>
+
+</resources>
